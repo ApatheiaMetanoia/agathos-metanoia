@@ -1,6 +1,0 @@
-// SPDX-License-Identifier: AGPL-3.0
-{
-  "name": "metanoia",
-  "compatibility_date": "2026-10-09",
-  "assets": { "directory": "./public" }
-}
