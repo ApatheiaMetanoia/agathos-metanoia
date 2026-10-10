@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: AGPL-3.0-or-later */
+/* SPDX-License-Identifier: AGPL-3.0 */
 :root{--bg:#f6f3ec;--ink:#1d1c19;--muted:#6a665c;--rule:#dcd6c8;--accent:#3f6b3a;color-scheme:light dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#161612;--ink:#ece8dc;--muted:#a29d8f;--rule:#34322b;--accent:#9cc58a}}
 :root[data-theme="light"]{color-scheme:light}
