@@ -1,0 +1,18 @@
+/* SPDX-License-Identifier: AGPL-3.0-only */
+.scroll{overflow-x:auto;margin:0 0 1rem}
+table{border-collapse:collapse;width:100%;font-size:.9em}
+th,td{text-align:left;padding:.45rem .6rem .45rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
+th{color:var(--muted);font-weight:600;white-space:nowrap}
+.n{white-space:nowrap}
+.b{display:inline-block;border:1px solid var(--muted);color:var(--muted);border-radius:1em;padding:0 .55em;font-size:.78em;line-height:1.5;white-space:nowrap}
+.note{color:var(--muted);font-size:.92em}
+.card{border:1px solid var(--rule);border-left:4px solid var(--accent);padding:.9rem 1.1rem;margin:0 0 1.25rem}
+.card ol{margin:.5rem 0 0;padding-left:1.2rem}
+.card li{margin:0 0 .35rem}
+.ico{width:2rem;height:2rem;fill:none;stroke:var(--ink);stroke-width:2;stroke-linejoin:round;vertical-align:middle;margin-right:.4rem}
+details{margin:0 0 1rem}
+summary{cursor:pointer}
+details li{margin:0 0 .3rem;font-size:.92em}
+ol.steps{padding-left:1.2rem}
+ol.src{padding-left:1.4rem}
+ol.src li{margin:0 0 .35rem;font-size:.92em}

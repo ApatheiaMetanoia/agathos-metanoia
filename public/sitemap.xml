@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://metanoia.agathos.workers.dev/</loc></url>
+<url><loc>https://metanoia.agathos.workers.dev/food/</loc></url>
+<url><loc>https://metanoia.agathos.workers.dev/food/units/</loc></url>
+<url><loc>https://metanoia.agathos.workers.dev/food/produce/</loc></url>
+<url><loc>https://metanoia.agathos.workers.dev/food/yields/</loc></url>
+<url><loc>https://metanoia.agathos.workers.dev/food/data/</loc></url>
+<url><loc>https://metanoia.agathos.workers.dev/writing/on-mercy-and-precedents/</loc></url>
 </urlset>
