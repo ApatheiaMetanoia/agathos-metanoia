@@ -1,0 +1,7 @@
+screening_id,study,what_was_dropped,type,reason,kept,rule_version,date
+C1-03,ZHA22 (Zhantlessova et al. 2022),whey medium (record; value in Figure 1 only),record dropped,dairy whey is the test carbon source,"MHS, molasses and glycerin records",v1.1 (record-level),2026-10-26
+P-06,dangke whey versus coconut water (SciELO BJFT),whey media records,record dropped,dairy whey in test media,coconut-water records (pending extraction),v1.1 (record-level),2026-10-26
+C4-06,Adnan 2015 thesis (Univ. of Waikato),fish hydrolysate and fish powder nitrogen-source records,record dropped,animal-derived nitrogen sources tested as treatments,"banana peel, glycerol, fed-batch and continuous records (pending extraction)",v1.1 (record-level),2026-10-26
+C2-04,Benha University study (acetic acid bacteria from rotten fruit),modified GAM no.1 records,record probably dropped,"contains tryptone, a casein digest (verify)",GAM no.2 records (peptone and yeast extract; flagged),v1.1 (record-level),2026-10-26
+C1-05,"Peru, bacteria isolated from sugarcane",whole entry,study excluded,no quantitative production data,isolation lead only,v1.0,2026-10-26
+C5b-05,Kazakh utility-model patent,whole entry,study excluded,patent record without experimental data in the snippet,,v1.0,2026-10-26

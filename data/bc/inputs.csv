@@ -1,0 +1,20 @@
+input_id,name,class,vegan_status,origin_note,wa_tag_provisional,wa_note,seen_in
+IN01,glucose (dextrose),carbon,clear,typically starch-derived,yes,,PRU17;ZHA22;AKI22
+IN02,technical-grade sugar (labelled glucose in GHO22 Table 1),carbon,clear,refining aid not stated,yes,,GHO22
+IN03,sugarcane molasses,carbon (complex),clear,by-product of sugar manufacture,yes,listed in FAO West Africa by-product table,ZHA22;ROD19
+IN04,ethanol,additive / co-substrate,clear,,likely,regional supply not checked,PRU17;ZHA22;ROD19
+IN05,acetic acid,additive,clear,,likely,,"(C6-02 and others, abstract-level)"
+IN06,peptone,nitrogen,unspecified,"animal-derived (casein, meat) and animal-free (soy, potato) products exist; origin must be stated or resolved by supplier catalogue number",unknown,laboratory supply,PRU17;ZHA22;AKI22
+IN07,tryptone,nitrogen,probably animal-derived,a casein digest by definition (verify per supplier),unknown,,C2-04 (dropped records)
+IN08,yeast extract,nitrogen / vitamins,clear,microbial,unknown,laboratory supply,ZHA22;AKI22;PRU17
+IN09,urea,nitrogen,clear,synthetic,yes,fertiliser,GHO22
+IN10,ammonium sulphate,nitrogen,clear,synthetic,likely,fertiliser,ROD19
+IN11,corn steep liquor,nitrogen (complex),clear,maize wet-milling by-product,unknown,regional supply not checked,ROD19
+IN12,citric acid,buffer / chelator,clear,fermentation-derived,likely,,ZHA22;ROD19
+IN13,disodium hydrogen phosphate,buffer salt,clear,mineral,unknown,dominant cost in ZHA22 molasses medium (280 of 435 tenge/L),ZHA22;ROD19
+IN14,glycerin / glycerol,carbon,unspecified,can be plant- or animal-derived; ZHA22 text suggests a by-product of bioethanol from vegetable raw materials,unknown,,ZHA22
+IN15,liquid tapioca (cassava starch) waste,carbon base,clear,plant by-product,yes,safety: cassava effluents contain cyanogenic compounds (general knowledge; not addressed by GHO22; verify),GHO22
+IN16,whey (dairy),carbon,animal-derived,dairy by-product,n/a,records dropped,ZHA22;P-06
+IN17,fish hydrolysate / fish powder,nitrogen,animal-derived,,n/a,records dropped,C4-06
+IN18,commercial cellulase (Cellic CTec2),processing aid,clear,microbial enzyme,no (imported),hard requirement applies at recommendation time,AKI22
+IN19,corncob and sugarcane bagasse hydrolysates,carbon,clear,plant residues,yes,,AKI22
