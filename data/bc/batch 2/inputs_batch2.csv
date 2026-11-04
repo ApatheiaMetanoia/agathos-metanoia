@@ -1,0 +1,8 @@
+input_id,name,class,vegan_status,origin_note,wa_tag_provisional,wa_note,seen_in
+IN20,acetylated glucose,carbon (derivatised),clear,chemical derivative of glucose; how it was made or sourced is not described in COS17,unknown,non-standard reagent; regional supply not checked,COS17
+IN21,jeans laundry effluent,waste stream (textile),flag-unspecified,"composition not itemised beyond dyes, pH and COD; detergents or enzymes may be present",unknown,tested as a water replacement in COS17 and gave no BC,COS17
+IN22,coffee grounds (spent),carbon / nutrient (complex),clear,plant residue from brewing,unknown,spent grounds from cafes and households; regional supply not checked,SOU21
+IN23,D-mannitol,carbon (polyol),clear,"sugar alcohol; source (plant extract, microbial or synthetic) not stated in NAR18",unknown,laboratory reagent; regional supply not checked,NAR18
+IN24,rice bran (extract),nitrogen (complex),clear,plant by-product of rice milling; extract preparation not described in NAR18,yes,rice milling by-product listed in the FAO West Africa residues table (from the screening log),NAR18
+IN25,oil palm trunk sap,carbon (complex),clear,sap tapped from felled trunks; collected into metabisulphite to slow fermentation,yes,"felled-trunk tapping resembles the West African palm-wine practice (general knowledge, verify); oil palm is in the FAO West Africa residues table",IRH26
+IN26,"mineral salts (MgSO4.7H2O, KH2PO4)",mineral salt,clear,inorganic,unknown,laboratory reagents; regional supply not checked,MAC18
